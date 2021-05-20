@@ -70,7 +70,7 @@ if(isset($_POST['mailform']))
 				<div class="row">
 					<div class="col-xl-8 offset-xl-2">
 						<div class="section-title">
-							<h2 style="margin-bottom: 0px;" id="form">Contactez moi</h2><p style="margin-bottom: 100px;">Ludovic Arduino</p>
+							<h2 style="margin-bottom: 0px;" id="form">Contactez moi</h2>
 						</div>
 						<form class="contact-form" method="POST" action="index.php#form">
 							<div class="row">
