@@ -102,31 +102,7 @@ if(isset($_POST['mailform']))
     
 		<!-- Contact section end -->
 
-		<!-- Footer section start -->
-		<footer class="footer-section">
-			<div class="container text-center">
-				<div class=" header-buttons">
-					<p>© 2021 Ludovic Arduino Tous droits résrvés</p>
-						<!--<a href="index.php#section-skills" class="site-btn">Voir mes compétences</a>-->
-							<div class="container-fluid">
-								<div class="row">
-									<div class="col-xl-10 offset-xl-1">
-										<div class="social-link-warp">
-											<div class="social-links ">
-												<a href="https://github.com/LudovicArduino"><i class="fa fa-github"></i></a>
-												<a href="https://www.linkedin.com/in/ludovic-arduino-91646b20b/"><i class="fa fa-linkedin"></i></a>
-												<a href=""><i class="fa fa-facebook"></i></a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<a style="box-shadow: 5px 5px 5px grey;" href="LudovicArduinoCV.pdf" class="site-btn">Télécharger mon CV</a>
-					</div>
-				
-			</div>
-		</footer>
-		<!-- Footer section end -->
+		
 	</div>
 
 	<!--====== Javascripts & Jquery ======-->
